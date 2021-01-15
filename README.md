@@ -6,6 +6,12 @@ Elle n'est cependant pas très mature sur les outils dits "MLOps", qui permetten
 
 Elle vous demande de lui présenter l'outil MLFlow à l'aide d'un projet (brief) sur lequel vous avez déjà travaillé. De lui montrer les principales fonctionnalités :
 
+- Création d'un fichier MLProject
+- Versionning avec Git
+- Gestion des paramètres entre les runs
+- Exécuter sur un fichier python et/ou un notebook
+
+
 ## Démarrage
 
 Installation des différentes librairies permettant l'exécution du fichier main.py ou main.ipynb (Voir dans le fichier conda.yml).
