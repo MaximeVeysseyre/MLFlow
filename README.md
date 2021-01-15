@@ -13,7 +13,9 @@ Installation des différentes librairies permettant l'exécution du fichier main
 ## Utilisation
 
 Exécution du fichier main.ipynb ou main.py ou en ligne de commande : "python main.py {epochs} {patience}".
+
 Entrer dans le terminal la ligne de code suivante : "mlflow ui".
+
 Connexion via un navigateur internet à l'adresse "http://localhost:5000".
 
 ## Auteur
